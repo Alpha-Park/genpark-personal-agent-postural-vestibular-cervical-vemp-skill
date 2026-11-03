@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-postural-vestibular-cervical-vemp-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency sovereign personal agent skill for calculating Cervical Vestibular Evoked Myogenic Potentials (cVEMP), p13-n23 latency, Interaural Asymmetry Ratio (IAR), and saccular otolith integrity.",
+  "author": "AlphaPark Inc.",
+  "license": "Apache-2.0",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ]
+}
